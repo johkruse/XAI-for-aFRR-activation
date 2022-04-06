@@ -1,7 +1,9 @@
 # Explainable Machine Learning for secondary control activation in Germany
+
+[![DOI](https://zenodo.org/badge/404657985.svg)](https://zenodo.org/badge/latestdoi/404657985)
+
 Code accompanying the mansucript "Secondary control activation analysed and predicted with explainable AI".
 Preprint: <http://arxiv.org/abs/2109.04802>
-
 
 ## Install
 
